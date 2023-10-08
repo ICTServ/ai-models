@@ -1,14 +1,14 @@
 [
     {
-        "name": "CodeGen2.5",
+        "name": "NLLB-200",
         "models": [
             {
-                "name": "CodeGen2.5-7B-multi",
-                "repo": "Salesforce/codegen25-7b-multi",
+                "name": "NLLB-200",
+                "repo": "facebook/nllb-200-1.3B",
                 "files": [
                     {
-                        "name": "q6_K",
-                        "filename": "pytorch_model-00003-of-00003.bin",
+                        "name": "model",
+                        "filename": "pytorch_model.bin",
                         "disk_space": 10700000000.0
                     }
                 ]
